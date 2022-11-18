@@ -15,7 +15,7 @@ A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 # Build 
 ```
-docker build -t <seu-user>/codeeducation .
+docker build -t <seu-user>/codeeducation:latest .
 ```
 
 # Pull 
